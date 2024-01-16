@@ -1,4 +1,4 @@
-﻿namespace GITHUB_algo
+﻿namespace GestionNonimas
 {
     internal class Program
     {
